@@ -1,0 +1,24 @@
+{
+  "name": "logical_programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01array MaxMarks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankagaikwad5040/logical_Programs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankagaikwad5040/logical_Programs/issues"
+  },
+  "homepage": "https://github.com/priyankagaikwad5040/logical_Programs#readme",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
